@@ -40,7 +40,7 @@
 	* 数据监控
 		* [Umeng](https://www.umeng.com "Umeng")
 			* 国内起步最早的一家，根据友盟官网上的介绍，友盟有两款产品可以做App渠道统计
-		* [Talkingdata](http://www.talkingdata.com http://www.openinstall.io"Talkingdata")
+		* [Talkingdata](http://www.talkingdata.com "Talkingdata")
 			* 做游戏分析起家，Talkingdata的渠道统计功能叫：移动广告效果监测，有防作弊功能，其官方网站称“截止2016年12月12日对接300余家平台，让我们的监测绝对精准”，App渠道统计的精度和对接广告平台的多少之间有什么联系，笔者没搞明白其中的逻辑关系。
 		* [Openinstall](http://www.openinstall.io "Openinstall")
 			* 特点是比较精确，其网站声称可以“以逐个计数的方式精确统计渠道安装量”，精确度可以达到100%，具有排重防刷量的功能。
